@@ -1,0 +1,9 @@
+
+# Log Files
+*.log
+*.tmp
+
+# IntelliJ
+*.iml
+.idea/
+venv/
